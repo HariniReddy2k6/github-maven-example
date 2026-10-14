@@ -40,3 +40,4 @@ The generated site will be committed to the [gh-pages branch](https://github.com
 
 
 Code change made for DevOps lab experiment.
+DevOps lab change
